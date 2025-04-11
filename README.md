@@ -3,7 +3,7 @@ This document contains instructions and guidance on the functionality of the pro
 PLEASE NOTE: CURRENCY CAN BECOME NEGATIVE AND THUS CREATED OUT OF THIN AIR IN THIS VERSION OF THE PROGRAM FOR THE SAKE OF DEMONSTRATION.
 
 
-____FUNCTIONS____________________________________________________________________________________________________________________________________________________
+____FUNCTIONS______________________________________________________________________________________________________________________________________________
 
 
 
@@ -45,7 +45,7 @@ SEND TRANSACTION -       Sends a valid transaction to the transaction pool, read
 
 
 
-____DEFINITIONS__________________________________________________________________________________________________________________________________________________
+____DEFINITIONS____________________________________________________________________________________________________________________________________________
 
 
 
